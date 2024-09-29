@@ -1,6 +1,6 @@
 # Welcome to the IFRI AI Community GitHub Organization 🚀🤖
 
-This GitHub organization was created by the first cohort of the Artificial Intelligence program at the **Computer Training and Research Institute (IFRI)**, part of the **University of Abomey-Calavi** in Benin (🌍 [www.ifri-uac.bj](http://www.ifri-uac.bj)). While we are proud to be students of IFRI, **this organization is not an official representation of IFRI, nor are we affiliated with it in any formal capacity**. Our goal is to share the outcomes of our independent work, research, and activities in AI and related technologies.
+This GitHub organization was created by the first cohort of the Artificial Intelligence program at the **Computer Training and Research Institute (IFRI)**, part of the **University of Abomey-Calavi** in Benin 🇧🇯 (🌍 [www.ifri-uac.bj](http://www.ifri-uac.bj)). While we are proud to be students of IFRI, **this organization is not an official representation of IFRI, nor are we affiliated with it in any formal capacity**. Our goal is to share the outcomes of our independent work, research, and activities in AI and related technologies.
 
 ## Who We Are 🎓💻
 
