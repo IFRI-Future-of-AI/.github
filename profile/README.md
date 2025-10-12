@@ -36,7 +36,7 @@ We welcome contributions from everyone, whether you’re a student, researcher, 
 
 For any questions, suggestions, or collaboration requests, feel free to reach out:
 
-- Email: 
+- Email: futureofai19@gmail.com
 - Website: 
 
 Thank you for your interest in our community! Let’s innovate and build the future of AI together! 💡🤖🌍
